@@ -1,10 +1,10 @@
-# portfolio
+# A Portfolio
 
-A new Flutter project.
+A noobie's practice model.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my first flutter project as a beginner.
 
 A few resources to get you started if this is your first Flutter project:
 
